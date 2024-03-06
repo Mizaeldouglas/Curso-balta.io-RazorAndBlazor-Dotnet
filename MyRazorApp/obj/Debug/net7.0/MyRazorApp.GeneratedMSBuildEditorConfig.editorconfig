@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyRazorApp
+build_property.RootNamespace = MyRazorApp
+build_property.ProjectDir = /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = aW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/Shared/NavMenuPatial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TmF2TWVudVBhdGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wnq8l6oet3

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7SGpRw3i2K6MhtEVlnzT4ThipT/GR8XRAdeIEN1Tmh8qcG6bpx12GE+bcF+H2aEG799ElD3sQ4D3tlpejUsKQ==",
+  "success": true,
+  "projectFilePath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/blazorAndRazor/MyRazorApp/MyRazorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

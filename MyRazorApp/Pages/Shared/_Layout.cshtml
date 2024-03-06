@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <title>
+        @ViewData["Title"]
+    </title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/MyRazorApp.styles.css" asp-append-version="true">
+
+    <style>
+            
+        </style>
+</head>
+<header>
+    <h1>@RenderSection("titulo", false)</h1>
+    <partial name="Shared/NavMenuPatial"/>
+</header>
+<body>
+<main>
+    @RenderBody()
+
+</main>
+
+</body>
+@RenderSection("scripts", false)
+</html>
